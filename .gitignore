@@ -1,0 +1,36 @@
+node_modules
+
+#Hardhat files
+cache-**
+artifacts-**
+coverage
+coverage.json
+
+**mnemonic
+**.idea
+
+.env
+**.DS_Store
+.config
+config.json
+config**.json
+**codelab
+**typechain-types
+.openzeppelin-bak/unknown-31337.json
+out
+
+lib/forge-std
+lib/openzeppelin-contracts
+lib/openzeppelin-contracts-upgradeable
+
+
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+.idea
+broadcast
+
+deployment/*
